@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jskits/static/css/main.5ca3ce4f.css",
+    "main.js": "/jskits/static/js/main.7fa15eaf.js",
+    "index.html": "/jskits/index.html",
+    "main.5ca3ce4f.css.map": "/jskits/static/css/main.5ca3ce4f.css.map",
+    "main.7fa15eaf.js.map": "/jskits/static/js/main.7fa15eaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ca3ce4f.css",
+    "static/js/main.7fa15eaf.js"
+  ]
+}
