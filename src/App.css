@@ -1,0 +1,18 @@
+#question, #answer {
+    font-size: 10vw;
+}
+#going {
+    display: none;
+}
+#error {
+    color: red;
+}
+button {
+    margin: 0.6rem;
+}
+#main {
+    height: 20vw;
+}
+.title {
+    margin-left: 1rem;
+}
